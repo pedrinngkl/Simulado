@@ -42,11 +42,16 @@ background-color: lightpink;}
     top: -80px;}
 .td7 {width: 20%; text-align: justify; padding: 5%;
 background-color: lightgray;}
-.td8 {width: 28%; text-align: left; background-color: magenta};
-.td8 img {
+.td8 { 
+    width: 28%; 
+    text-align: left; 
+    background-color: magenta;
+  } 
+  
+  .td8 img {
     position: relative;
-    top: 120px;
-text-align: center;}
+    top: 125px;
+  }
 .td9 {width: 21%; background-color: moccasin;}
 .td10 {width: 21%; background-color: gold;}
 .td11 {width: 21%; background-color: green;}
